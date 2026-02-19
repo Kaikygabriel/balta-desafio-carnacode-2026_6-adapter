@@ -1,3 +1,4 @@
+/*
 // DESAFIO: Integração com Sistema Legado de Pagamentos
 // PROBLEMA: Um e-commerce moderno precisa integrar com um sistema legado de processamento
 // de pagamentos que usa interfaces e estruturas de dados incompatíveis com o sistema atual
@@ -214,3 +215,4 @@ namespace DesignPatternChallenge
         }
     }
 }
+*/
